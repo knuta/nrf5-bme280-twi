@@ -1,0 +1,17 @@
+*.rej
+*.orig
+_build
+/example/*/blank/iar/*.dep
+/example/*/blank/iar/*.ewt
+BuildLog.log
+log.log
+*.emSession
+Output
+*.jlink
+.*.swp
+*.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+EventRecorderStub.scvd
+/example/*/blank/arm5_no_packs/RTE
+settings

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\sdk13_pca10056\blank\iar\nrf5-bme280-twi-example_pca10056.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\sdk13_pca10040\blank\iar\nrf5-bme280-twi-example_pca10040.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
